@@ -1,0 +1,15 @@
+D:\Projects\dotnet\consoletwo\bin\Debug\net7.0\consoletwo.exe
+D:\Projects\dotnet\consoletwo\bin\Debug\net7.0\consoletwo.deps.json
+D:\Projects\dotnet\consoletwo\bin\Debug\net7.0\consoletwo.runtimeconfig.json
+D:\Projects\dotnet\consoletwo\bin\Debug\net7.0\consoletwo.dll
+D:\Projects\dotnet\consoletwo\bin\Debug\net7.0\consoletwo.pdb
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.csproj.AssemblyReference.cache
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.AssemblyInfoInputs.cache
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.AssemblyInfo.cs
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.dll
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\refint\consoletwo.dll
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.pdb
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\consoletwo.genruntimeconfig.cache
+D:\Projects\dotnet\consoletwo\obj\Debug\net7.0\ref\consoletwo.dll

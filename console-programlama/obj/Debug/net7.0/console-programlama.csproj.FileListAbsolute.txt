@@ -1,0 +1,15 @@
+D:\Projects\dotnet\console-programlama\bin\Debug\net7.0\console-programlama.exe
+D:\Projects\dotnet\console-programlama\bin\Debug\net7.0\console-programlama.deps.json
+D:\Projects\dotnet\console-programlama\bin\Debug\net7.0\console-programlama.runtimeconfig.json
+D:\Projects\dotnet\console-programlama\bin\Debug\net7.0\console-programlama.dll
+D:\Projects\dotnet\console-programlama\bin\Debug\net7.0\console-programlama.pdb
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.csproj.AssemblyReference.cache
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.AssemblyInfoInputs.cache
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.AssemblyInfo.cs
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.dll
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\refint\console-programlama.dll
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.pdb
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\console-programlama.genruntimeconfig.cache
+D:\Projects\dotnet\console-programlama\obj\Debug\net7.0\ref\console-programlama.dll
