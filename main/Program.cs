@@ -142,6 +142,20 @@ foreach (string month in months)
 }
 
 
-int n = Convert.ToInt32(Console.ReadLine().Trim());
-int? i = (n >= 2 && n <= 20) ? n : null;
+int n;
+
+
+n = int.Parse(Console.ReadLine());
+if (n <= 100 && n >= 0)
+{
+
+    for (int c = 1; c <= n; c++)
+    {
+        int space_val = n - c;
+        int sharp_val = n - space_val;
+        string space = new string(' ', space_val);
+        string sharp = new string('#', sharp_val);
+        Console.WriteLine(space + sharp);
+    }
+}
 
