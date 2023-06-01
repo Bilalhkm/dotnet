@@ -24,5 +24,12 @@ namespace methods
         {
             Console.WriteLine(message);
         }
+        public int plus(int firstNum,int secondNum)
+        {
+            firstNum++;
+            secondNum++;
+            return firstNum+secondNum;
+        }
+        
     }
 }
