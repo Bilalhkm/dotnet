@@ -1,0 +1,15 @@
+D:\Projects\dotnet\classification\bin\Debug\net7.0\classification.exe
+D:\Projects\dotnet\classification\bin\Debug\net7.0\classification.deps.json
+D:\Projects\dotnet\classification\bin\Debug\net7.0\classification.runtimeconfig.json
+D:\Projects\dotnet\classification\bin\Debug\net7.0\classification.dll
+D:\Projects\dotnet\classification\bin\Debug\net7.0\classification.pdb
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.csproj.AssemblyReference.cache
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.AssemblyInfoInputs.cache
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.AssemblyInfo.cs
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.dll
+D:\Projects\dotnet\classification\obj\Debug\net7.0\refint\classification.dll
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.pdb
+D:\Projects\dotnet\classification\obj\Debug\net7.0\classification.genruntimeconfig.cache
+D:\Projects\dotnet\classification\obj\Debug\net7.0\ref\classification.dll
