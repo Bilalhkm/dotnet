@@ -12,10 +12,17 @@ else
 Methods instance = new Methods();
 instance.Add(2, 3, out int numToplam);
 Console.WriteLine(numToplam);
-class Methods
+
+ class Methods
 {
     public void Add(int a, int b, out int toplam)
     {
         toplam = a + b;
+    }
+    public void print(string  veri){
+        Console.WriteLine(veri);
+    }
+    public void print(int  veri){
+        Console.WriteLine(veri);
     }
 }

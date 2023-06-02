@@ -1,0 +1,15 @@
+D:\Projects\dotnet\Rekursif\bin\Debug\net7.0\Rekursif.exe
+D:\Projects\dotnet\Rekursif\bin\Debug\net7.0\Rekursif.deps.json
+D:\Projects\dotnet\Rekursif\bin\Debug\net7.0\Rekursif.runtimeconfig.json
+D:\Projects\dotnet\Rekursif\bin\Debug\net7.0\Rekursif.dll
+D:\Projects\dotnet\Rekursif\bin\Debug\net7.0\Rekursif.pdb
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.csproj.AssemblyReference.cache
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.AssemblyInfoInputs.cache
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.AssemblyInfo.cs
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.dll
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\refint\Rekursif.dll
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.pdb
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\Rekursif.genruntimeconfig.cache
+D:\Projects\dotnet\Rekursif\obj\Debug\net7.0\ref\Rekursif.dll
