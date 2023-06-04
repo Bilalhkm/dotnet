@@ -14,3 +14,16 @@ string replaced = input.Replace(substr, "masrs !");
 Console.WriteLine(replaced);
 string concatenated = string.Concat("by Bilal ", input);
 Console.WriteLine(concatenated);
+
+class Solution
+{
+    public static void Main(string[] args)
+    {
+        string S = Console.ReadLine();
+        bool Conversion = int.TryParse(S, out int result);
+        if (Conversion)
+            Console.WriteLine(result);
+        else
+            Console.WriteLine("Bad String");
+    }
+}
